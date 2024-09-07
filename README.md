@@ -13,3 +13,5 @@ two servers server.py and serverai.py are running
 (serverai.py)-is the server that handles the input questions inputed by the client and processes the input question using llama and sends the result to client (clien.py) to be printed.It does it by using sockets to recv and transmit data as a dictionary
 <br>
 (client.py)-is the code that hosts and runs the website using flask and sockets to communicate with the servers 
+<br>
+the folder (functionalities in this project used (not needed for code))-can be ignored it is just there to break down the code 
